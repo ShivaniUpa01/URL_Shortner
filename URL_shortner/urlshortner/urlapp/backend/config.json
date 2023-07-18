@@ -1,0 +1,6 @@
+{
+  "host": "localhost",
+  "db_user": "root",
+  "db_pass": "root",
+  "database": "url_short"
+}

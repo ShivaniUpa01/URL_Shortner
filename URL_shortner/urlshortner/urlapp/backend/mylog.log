@@ -1,0 +1,5 @@
+This is an info-level log message.
+2023-07-14 21:28:09,194 - urlshorter - INFO - This is an INFO message in file
+2023-07-14 21:28:24,733 - INFO - This is an INFO message in file
+2023-07-14 21:30:04,402 - INFO - This is an INFO message in file
+2023-07-14 21:30:45,523 - INFO - This is an INFO message in file
